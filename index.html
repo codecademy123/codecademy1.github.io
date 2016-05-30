@@ -17,6 +17,12 @@
       prompt("Do you vote for Pink Sheep?");
       confirm("Thanks for the feedback!");
     });
+    $("#votebutton").hover(function() {
+      $("#votebutton").fadeOut("slow");
+    },
+    function() {
+      $("#votebutton").fadIn("slow");
+    });
   });
 </script>
 </body>
