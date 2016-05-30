@@ -12,10 +12,12 @@
 <div style="background-color:aqua;width:100px;height:40px" id="vote-button">Cast Your Vote!</div>
 <script src="https://.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script>
+  $(document).ready(function() {
     $('#vote-button').click(function() {  
       prompt("Do you vote for Pink Sheep?")
       confirm("Thanks for the feedback!")
     });
+  });
 </script>
 </body>
 </html>
