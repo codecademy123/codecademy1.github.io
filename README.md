@@ -1,1 +1,1 @@
-This project was supposed to be from the Codecademy "Deploy a Website" course but I turned it into a real website. However, I am having trouble setting a favicon and wish someone coach me on how to do it.
+This project was supposed to be from the Codecademy "Deploy a Website" course but I turned it into a real website.
